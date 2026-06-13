@@ -41,6 +41,12 @@
           "terms-of-service",
           "refund-policy"
         ]
+      },
+      {
+        "tab": "Support",
+        "pages": [
+          "delete-account"
+        ]
       }
     ]
   }
