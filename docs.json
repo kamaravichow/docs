@@ -45,7 +45,8 @@
       {
         "tab": "Support",
         "pages": [
-          "delete-account"
+          "delete-account",
+          "untitled-page"
         ]
       }
     ]
